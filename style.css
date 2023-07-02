@@ -1,0 +1,37 @@
+.btn-yellow {
+    background: #FFC107;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(rgba(16, 15, 15, 0.7), rgba(16, 15, 15, 0.7)), url('./images/banner_1.png');
+
+    height: 500px;
+    align-self: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+.text {
+
+    text-align: center;
+    color: white;
+}
+
+.head-text {
+    width: 400px;
+    margin: auto;
+}
+
+.desc {
+    width: 600px;
+    margin: auto;
+}
